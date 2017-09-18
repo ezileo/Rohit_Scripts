@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c267bebc-9c70-4bd5-a8c4-92220156955d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_18_11_09_2017#.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_19_12_09_2017#.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_20_13_09_2017#.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_20_14_09_2017#.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_21_15_09_2017#.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_22_18_09_2017#.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Random_Scripts/Subprocesses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Random_Scripts/BOT_SPARK.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Random_Scripts/Random Test Code.py" afterPath="$PROJECT_DIR$/Random_Scripts/Random Test Code.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/GIT_Python_Problem_1_17_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/GIT Python Problems/GIT_Python_Problem_1_17_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/GIT_Python_Problem_2_18_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/GIT Python Problems/GIT_Python_Problem_2_18_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/GIT_Python_Problem_3_21_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/GIT Python Problems/GIT_Python_Problem_3_21_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/GIT_Python_Problem_4_22_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/GIT Python Problems/GIT_Python_Problem_4_22_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_10_30_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_11_31_08_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_12_01_09_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_12_01_09_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_13_04_09_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_13_04_09_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_14_05_09_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_14_05_09_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_15_06_09_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_15_06_09_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_16_07_09_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_16_07_09_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_17_09_09_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_17_08_09_2017#.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_1_17_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_1_17_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_2_18_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_2_18_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_3_21_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_3_21_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_4_22_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_4_22_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_5_23_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_5_23_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_6_24_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_6_24_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_7_25_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_7_25_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_8_28_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_8_28_08_2017.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_9_29_08_2017.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_9_29_08_2017.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,18 +16,7 @@
     <favorites_list name="Rohit_Scripts" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Subprocesses.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Random_Scripts/Subprocesses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,6 +69,7 @@
         <option value="$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_22_18_09_2017#.py" />
         <option value="$PROJECT_DIR$/Random_Scripts/Random Test Code.py" />
         <option value="$PROJECT_DIR$/Random_Scripts/Subprocesses.py" />
+        <option value="$PROJECT_DIR$/Random_Scripts/BOT_SPARK.py" />
       </list>
     </option>
   </component>
@@ -179,7 +141,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -456,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505647935459</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Daily Programming commits">
+      <created>1505737397165</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1505737397165</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -559,14 +528,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -886,6 +847,20 @@
         <state relative-caret-position="112">
           <caret line="989" column="0" lean-forward="false" selection-start-line="989" selection-start-column="0" selection-end-line="989" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Random_Scripts/BOT_SPARK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="e#48#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
