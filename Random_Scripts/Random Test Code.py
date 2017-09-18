@@ -9,3 +9,4 @@ streetno={
 key = input("Enter name or number (i/p):")
 result = streetno.get(key)
 print(result)
+
