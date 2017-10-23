@@ -18,20 +18,24 @@ if user_input == 1:
     user_number = int(input("Please enter a number of your choice: "))
 
     for a in range(2, user_number):
-        for b in range (2, user_number):
+        #for b in range (2, user_number):
             if user_number % a == 0:
                 list_1.append(a)
     print("Number of divisors for {} is".format(user_number), list_1)
-    print("Number is Prime")
+    if len(list_1) != 0:
+        print("Number is not a Prime")
+    else:
+        print("Number is prime")
 
 if user_input == 2:
-    random_number = random.randint(1, 99)
+    random_number = random.randint(1, 9999)
     print("The Random Number selected by Computer is", random_number)
 
     for b in range(2, random_number):
         if random_number % b == 0:
             list_2.append(b)
-            print("The number is not Prime")
-        else:
-            print("The number is Prime")
-    print("Number of divisors is", list_2)
+    print("Number of divisors for {} is".format(random_number), list_2)
+    if len(list_2) != 0:
+        print("Number is not a Prime")
+    else:
+        print("Number is prime")

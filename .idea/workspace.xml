@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c267bebc-9c70-4bd5-a8c4-92220156955d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_23_19_09_2017#.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_12_01_09_2017#.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017#.py" afterPath="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +17,37 @@
     <favorites_list name="Rohit_Scripts" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PracticePython_Problem_23_19_09_2017#.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_23_19_09_2017#.py">
+    <leaf>
+      <file leaf-file-name="PracticePython_Problem_11_31_08_2017.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="40" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="92" />
+              <folding>
+                <element signature="e#122#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PracticePython_Problem_10_30_08_2017.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PracticePython_Problem_12_01_09_2017.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_12_01_09_2017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="e#168#183#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +107,10 @@
         <option value="$PROJECT_DIR$/Random_Scripts/Subprocesses.py" />
         <option value="$PROJECT_DIR$/Random_Scripts/BOT_SPARK.py" />
         <option value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_50_19_09_2017#.py" />
+        <option value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017#.py" />
+        <option value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017.py" />
+        <option value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_23_19_09_2017#.py" />
+        <option value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_12_01_09_2017#.py" />
       </list>
     </option>
   </component>
@@ -127,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -155,7 +185,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,71 +211,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Subprocesses">
-    <configuration name="PracticePython_Problem_10_30_08_2017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PracticePython_Problem_12_01_09_2017#">
+    <configuration name="PracticePython_Problem_11_31_08_2017" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Rohit_Scripts" />
-      <option name="SCRIPT_NAME" value="D:\Programs\Repository\Rohit_Scripts\Daily_Python_Programming\Practice Python Problems\PracticePython_Problem_10_30_08_2017.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PracticePython_Problem_11_31_08_2017#" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PracticePython_Problem_11_31_08_2017# (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Rohit_Scripts" />
-      <option name="SCRIPT_NAME" value="D:\Programs\Repository\Rohit_Scripts\Daily_Python_Programming\Practice Python Problems\PracticePython_Problem_11_31_08_2017#.py" />
+      <option name="SCRIPT_NAME" value="D:\Programs\Repository\Rohit_Scripts\Daily_Python_Programming\Practice Python Problems\PracticePython_Problem_11_31_08_2017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PracticePython_Problem_4_22_08_2017" type="PythonConfigurationType" factoryName="Python" singleton="true" temporary="true">
+    <configuration name="PracticePython_Problem_12_01_09_2017#" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Rohit_Scripts" />
-      <option name="SCRIPT_NAME" value="D:\Programs\Repository\Rohit_Scripts\Daily_Python_Programming\Practice Python Problems\PracticePython_Problem_4_22_08_2017.py" />
+      <option name="SCRIPT_NAME" value="D:\Programs\Repository\Rohit_Scripts\Daily_Python_Programming\Practice Python Problems\PracticePython_Problem_12_01_09_2017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PracticePython_Problem_8_28_08_2017_!!_!!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PracticePython_Problem_1_17_08_2017" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Rohit_Scripts" />
-      <option name="SCRIPT_NAME" value="D:\Programs\Repository\Rohit_Scripts\Daily_Python_Programming\Practice Python Problems\PracticePython_Problem_8_28_08_2017.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_1_17_08_2017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,19 +362,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PracticePython_Problem_4_22_08_2017" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PracticePython_Problem_8_28_08_2017_!!_!!" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PracticePython_Problem_10_30_08_2017" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PracticePython_Problem_11_31_08_2017#" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Subprocesses" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Subprocesses" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PracticePython_Problem_11_31_08_2017# (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PracticePython_Problem_11_31_08_2017" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PracticePython_Problem_1_17_08_2017" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PracticePython_Problem_12_01_09_2017#" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Subprocesses" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PracticePython_Problem_11_31_08_2017#" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PracticePython_Problem_4_22_08_2017" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PracticePython_Problem_10_30_08_2017" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PracticePython_Problem_8_28_08_2017_!!_!!" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PracticePython_Problem_12_01_09_2017#" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PracticePython_Problem_11_31_08_2017" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PracticePython_Problem_1_17_08_2017" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PracticePython_Problem_11_31_08_2017# (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Subprocesses" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505743796866</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Daily Programming commits">
+      <created>1506957728952</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1506957728952</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -466,16 +502,16 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21482602" sideWeight="0.4879227" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31467474" sideWeight="0.4879227" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33977455" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33977455" sideWeight="0.4969651" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26100153" sideWeight="0.5120773" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26100153" sideWeight="0.5120773" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -486,26 +522,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33977455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -554,13 +570,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_8_28_08_2017.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
@@ -687,13 +696,6 @@
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_10_30_08_2017_!!_!!.py" />
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_11_31_08_2017_!!_!!.py" />
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/PracticePython_Problem_12_01_09_2017_!!_!!.py" />
-    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_1_17_08_2017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_2_18_08_2017.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -767,13 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/GIT Python Problems/GIT_Python_Problem_4_22_08_2017.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -813,13 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017#.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -869,11 +857,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_1_17_08_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_23_19_09_2017#.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_11_31_08_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="92" />
+          <folding>
+            <element signature="e#122#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_10_30_08_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily_Python_Programming/Practice Python Problems/PracticePython_Problem_12_01_09_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#168#183#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
