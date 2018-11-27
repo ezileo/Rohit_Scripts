@@ -18,6 +18,7 @@ def main():
     elif user_input == 2:
         fs_length = random.randint(1, 100)
         fs(fs_length)
+        print(fs_length)
     else:
         print("Please select valid input")
 
