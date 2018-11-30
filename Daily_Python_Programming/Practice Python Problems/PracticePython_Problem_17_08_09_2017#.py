@@ -14,6 +14,8 @@ def main():
     r = requests.get(url)
     print(r)
     r_html = r.text
+    # r_html1 = r.html
+    # print(r_html1)
     # print(r_html)
     # soup_1 = BeautifulSoup(r_html)
     soup_2 = BeautifulSoup(r_html, 'html.parser')

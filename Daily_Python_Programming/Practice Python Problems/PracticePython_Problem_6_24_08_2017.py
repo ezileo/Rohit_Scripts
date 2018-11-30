@@ -1,24 +1,25 @@
-# URL: http://www.practicepython.org/
-# Author: Rohit Gupta
-# Date: August 24, 2017
-# Version 1.0
-# Problem Exercise: 6
+import random
+import string
+NumberOfNumbersToGuess = 4
+PlayerNumber = []
+RandomNumber = [random.choice(string.digits) for _ in range(NumberOfNumbersToGuess)]
+print(RandomNumber)
+Cows = 0
+Bulls = 0
 
-import datetime
-user_name = (input("Please enter your name: "))
-current_time = datetime.datetime.now()
-print("It is nice meeting you {}, you ran this script at {}".format(user_name, current_time))
-word = (input("{} Please enter a word to see if it is a Palindrome or not: ".format(user_name))).upper()
-word_list = []
-for w in word:
-    # print (w)
-    word_list.append(w)
-print(word_list)
-reverse_word_list = word_list[::-1]
-print(reverse_word_list)
-
-if word_list == reverse_word_list:
-    print("The word {} you have entered {} is a Palindrome". format(word, user_name))
-else:
-    print("The word {} you have entered {} is not a Palindrome".format(word, user_name))
-
+if __name__ == "__main__":
+    while Cows < NumberOfNumbersToGuess:
+        PlayerNumber = [n for n in input("Please enter a "+str(NumberOfNumbersToGuess)+"-digit number\nEnter 'exit' to quit the game.\n")]
+        if PlayerNumber == ["e","x","i","t"]:
+            break
+        Cows = 0
+        Bulls = 0
+        for i in PlayerNumber:
+            if i in RandomNumber:
+                Bulls += 1
+        j=0
+        while j <NumberOfNumbersToGuess:
+            if RandomNumber[j] == PlayerNumber [j]:
+                Cows += 1
+            j += 1
+        print("\nCows:",Cows,"\nBulls:",Bulls-Cows)
